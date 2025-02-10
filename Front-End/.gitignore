@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output directory
+build/
+
+# Ignore IDE configuration files
+.vscode/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
